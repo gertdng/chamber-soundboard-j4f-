@@ -1,0 +1,31 @@
+input {
+  background-color: lightyellow;
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+  box-shadow: 0 9px #999;
+}
+input:hover {
+  background-color:yellow;
+  color: black;
+}
+input:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.trong-tren-duoi{
+	margin-left: 110px;
+	margin-top: 100px;
+}
+.centercee{margin-top:555px}
+.duoi{margin-left: 220px;}
+.tronhon{height: 100px;background-color: red;}
+.moretron{font-size: 10px;}
+h1{text-align: center;font-family: Cursive,Sans-serif;color:lightgoldenrodyellow ;}
+/*///body{background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/47eb97136280843.61f6f817dee3f.jpg");}*/
